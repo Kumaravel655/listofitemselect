@@ -33,6 +33,9 @@ Developed by         : Kumaravel V
 Registration Number : 212220230027
 */
 ```
+<br></br>
+<br></br>
+
 #### MainActivity.java
 ```java
 package com.example.check;
