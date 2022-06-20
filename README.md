@@ -26,18 +26,15 @@ Step 5: Display the list using checkbox in MainActivity file.
 Step 6: Launch an emulator and run the application.
 
 ## PROGRAM:
-```
+```r
 /*
-Program to display check list item”.
-Developed by:
-Registeration Number :
-Program to display "check list item”.
+Program to display "check list item".
 Developed by         : Kumaravel V
 Registration Number : 212220230027
 */
 ```
 #### MainActivity.java
-```
+```java
 package com.example.check;
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
@@ -73,7 +70,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 #### activity_main.xml
-```
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
@@ -88,7 +85,7 @@ public class MainActivity extends AppCompatActivity {
         style="@style/TextAppearance.AppCompat.Large"
         android:layout_margin="10dp"
         android:textStyle="bold"/>
-## OUTPUT
+ 
     <CheckBox
         android:id="@+id/chkFrance"
         android:layout_width="wrap_content"
@@ -129,10 +126,9 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT:
-![place](https://user-images.githubusercontent.com/75235813/173172545-eecd3c71-ca36-4aa1-98fb-b1b0202fbaad.jpeg)
+![tyd](https://user-images.githubusercontent.com/75235334/174519632-d7326db1-98b8-4a07-b5b0-f03addcfc10a.jpeg)
 
-![place1](https://user-images.githubusercontent.com/75235813/173172550-04657158-e6c9-4b97-815e-c520ac1ea251.jpeg)
-
+![yyy](https://user-images.githubusercontent.com/75235334/174519748-cdbeba16-818f-498a-a085-b0d93994e4d2.jpeg)
 
 
 ## RESULT:
