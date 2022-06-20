@@ -127,6 +127,10 @@ public class MainActivity extends AppCompatActivity {
         android:onClick="showSelected"/>
 </LinearLayout>
 ```
+<br>
+</br>
+<br>
+</br>
 
 ## OUTPUT:
 ![tyd](https://user-images.githubusercontent.com/75235334/174519632-d7326db1-98b8-4a07-b5b0-f03addcfc10a.jpeg)
